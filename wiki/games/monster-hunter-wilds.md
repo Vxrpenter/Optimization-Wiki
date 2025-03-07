@@ -6,7 +6,7 @@ layout: default
 ---
 
 <div align="center">
-  <img height="400" src="https://github.com/user-attachments/assets/935ff3cd-dfe1-42f5-875b-8fac5e8da22b" alt="logo">
+  <img height="400" src="/Optimization-Wiki/assets/articles/monster-hunter-wilds/logo.png" alt="logo">
 </div>
 
 | Untinkered State | ProtonDB Rating                                                                           | Last Updated | Recommended Optimization |
