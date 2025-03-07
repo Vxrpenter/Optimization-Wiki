@@ -4,13 +4,8 @@ parent: Documentation
 nav_order: 3
 layout: default
 ---
-Label explanation follow following structure
 
-| Allowed Flags |
-| Flags Purpose |
-| Flags Usage |
-
----
+# Label Explanations and Usage
 
 | Allowed Flags                                                                     | Flags Purpose                                                                                                                 | Flags Usage                                                                               |
 |:----------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------|
