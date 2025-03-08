@@ -71,7 +71,7 @@ Next we will need to choose a ReShade. Recommended Reshades are:
 Follow your ReShades instructions for installation or just create a folder named something like: `ReShades`, `Shaders` or `ReShade Shaders` in your games directory (You can actually name the folder whatever you want).
 Now it's just drag and drop, unzip the files, drag them into the folder you created or into the games directory intself and launch the game. After launch press the `Home` key to open the ReShade menu. Now go up to the top and select the preset you installed.
 
-<img src="/assets/articles/monster-hunter-wilds/reshade-menu.png">
+<img src="/Optimization-Wiki/assets/articles/monster-hunter-wilds/reshade-menu.png">
 
 ---
 
@@ -95,7 +95,7 @@ It's pretty straight forward, download the files, then copy them into the games 
 ```
 WINEDLLOVERRIDES="dstorage,dstoragecore=n,b" %command%
 ```
-<img height="400" src="Optimization-Wiki/assets/articles/monster-hunter-wilds/dbstorage-flags.png">
+<img height="400" src="/Optimization-Wiki/assets/articles/monster-hunter-wilds/dbstorage-flags.png">
 
 
 # General Mod Recommendations
