@@ -56,7 +56,7 @@ Hunter@linux:~$ chmod u+x reshade-linux.sh
 WINEDLLOVERRIDES="d3dcompiler_47=n; dxgi=n, b" %command%
 ```
 
-<img height="400" src="https://github.com/user-attachments/assets/8b49ae0b-767a-49b4-8b2c-264980a4fb7c">
+<img height="400" src="/Optimization-Wiki/assets/articles/monster-hunter-wilds/reshade-flags.png">
 
 ## Installing Dependencies
 All ReShades need the [REFramework](https://www.nexusmods.com/monsterhunterwilds/mods/93) to work properly so install that. Installation is really easy, just put the `dinput8.dll`in your games directory and you are finished.
@@ -71,7 +71,7 @@ Next we will need to choose a ReShade. Recommended Reshades are:
 Follow your ReShades instructions for installation or just create a folder named something like: `ReShades`, `Shaders` or `ReShade Shaders` in your games directory (You can actually name the folder whatever you want).
 Now it's just drag and drop, unzip the files, drag them into the folder you created or into the games directory intself and launch the game. After launch press the `Home` key to open the ReShade menu. Now go up to the top and select the preset you installed.
 
-![grafik](https://github.com/user-attachments/assets/4ea32db0-0e87-4a9f-8413-399eda0ecd52)
+<img src="/assets/articles/monster-hunter-wilds/reshade-menu.png">
 
 ---
 
@@ -95,7 +95,7 @@ It's pretty straight forward, download the files, then copy them into the games 
 ```
 WINEDLLOVERRIDES="dstorage,dstoragecore=n,b" %command%
 ```
-<img height="400" src="https://github.com/user-attachments/assets/f42c0063-0f92-45e8-a43c-263229a7a247">
+<img height="400" src="Optimization-Wiki/assets/articles/monster-hunter-wilds/dbstorage-flags.png">
 
 
 # General Mod Recommendations
@@ -114,7 +114,7 @@ These are all mods used, benchmarkings refered too etc. The creators of all of t
 > Used their benchmarks and general findings. Great video and definitely worth a watch
 
 ### [BenchmarKing](https://www.youtube.com/@benchmarking4386)
-> [Monster Hunter Wilds PC | AWFUL PERFORMANCE | Tweaks and Recommendations |](https://www.youtube.com/watch?v=UE35n5tOI1Q&t=328s)
+> [Monster Hunter Wilds PC AWFUL PERFORMANCE Tweaks and Recommendations](https://www.youtube.com/watch?v=UE35n5tOI1Q&t=328s)
 >
 > Used the general advise for shading, reshade usage and some of the metrics to get to this standpoint. Also a really nice video with good points and recommendations
 
