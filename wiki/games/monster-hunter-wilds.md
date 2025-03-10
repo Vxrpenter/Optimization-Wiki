@@ -161,3 +161,10 @@ These are all mods used, benchmarkings refered too etc. The creators of all of t
 > [optimization for MonsterHunterWilds GPU AND CPU Performance FPS Optimizer](https://www.nexusmods.com/monsterhunterwilds/mods/88)
 >
 > Good optimization mod
+
+# Testing Bench
+
+| Operating System | Arch Linux (6.13.4-arch1-1) |
+| Graphics Card    | AMD Radeon RX 7800 XT       |
+| CPU              | AMD Ryzen 7 7800X3D 8-Core  |
+| Ram Amount       | 64 GB DDR5                  |
