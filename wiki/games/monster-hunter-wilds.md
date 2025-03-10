@@ -82,6 +82,7 @@ Capcom somehow screwed up DirectStorage which produces stutters. For a bit more 
 It's pretty straight forward, download the files, then copy them into the games directory. Thats it, this fixes a lot of stutters, nothing that could have been done by CapCom themselves for sure ;)
 
 ## Upgrading to Version 1.2.3 <img width="20" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
+
 {: .warning} 
 Not following these steps when installing on linux can lead to crashes of the entire system, not just the game
 
