@@ -31,8 +31,7 @@ No other settings will be discussed here because they don't really improve the p
 
 # ReShade
 
-> [!CAUTION]
-> This will focus on improving visuals of the game and not improving performance. Only do these steps when you are already running the game with good performance because these changes can have a bit lower performance for more looks
+{: .warning} This will focus on improving visuals of the game and not improving performance. Only do these steps when you are already running the game with good performance because these changes can have a bit lower performance for more looks
 
 The first step is installing [ReShade](https://reshade.me/) for Monster Hunter Wilds. This will be a variying setup for users so follow your respective guide:
 
@@ -82,8 +81,7 @@ Capcom somehow screwed up DirectStorage which produces stutters. For a bit more 
 It's pretty straight forward, download the files, then copy them into the games directory. Thats it, this fixes a lot of stutters, nothing that could have been done by CapCom themselves for sure ;)
 
 ## Upgrading to Version 1.2.3 <img width="20" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
-> [!CAUTION]
-> Not following these steps when installing on linux can lead to crashes of the entire system, not just the game
+{: .warning} Not following these steps when installing on linux can lead to crashes of the entire system, not just the game
 
 1. Download the files
 2. Copy your old DirectStorage files: `dstoragecore.dll` and `dstorage.dll` to the following location:
